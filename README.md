@@ -134,17 +134,17 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 </div>
 
-23.Una inductancia de 30 H está conectada en serie con una inductancia de 60 H, y una inductancia de 10 H está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
+23. Una inductancia de 30 H está conectada en serie con una inductancia de 60 H, y una inductancia de 10 H está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
 # Problemas Capitulo XIV
 
-11.Para el circuito de la ﬁgura 14-1(b),el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V,la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
+11. Para el circuito de la ﬁgura 14-1(b),el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V,la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
 
 <div align="center">
   
 </div>
 
-13.Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
+13. Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
 
 **14-4Transitorios desenergizantes**
 
@@ -170,7 +170,7 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
 
 **14-5Circuitos más complejos**
 
-21.Para la bobina de la ﬁgura 14-45 Rt = 1.7Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+21. Para la bobina de la ﬁgura 14-45 Rt = 1.7Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
 
 <div align="center">
   
@@ -217,7 +217,7 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 </div>
 
  
-33.Se resolvió el circuito de la ﬁgura 14-22(a) mediante la reducción a su equiva-lente de Thévenin. Use PSpice para analizar el circuito en su forma original ygraﬁque la corriente del inductor. Veriﬁque algunos puntos en la curva calcu-lando los valores de acuerdo con la solución del ejemplo 14-8 y compare conlos valores que obtuvo en la pantalla.
+33. Se resolvió el circuito de la ﬁgura 14-22(a) mediante la reducción a su equiva-lente de Thévenin. Use PSpice para analizar el circuito en su forma original ygraﬁque la corriente del inductor. Veriﬁque algunos puntos en la curva calcu-lando los valores de acuerdo con la solución del ejemplo 14-8 y compare conlos valores que obtuvo en la pantalla.
 
 <div align="center">
  
