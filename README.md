@@ -30,15 +30,14 @@ Ing. Darwin Omar Alulema Flores
 
 # 2. MARCO TEORICO
 
-**CAPITULO XIII**
-
 <div align="center">
   
-</div>
+**CAPITULO XIII**
 
 **CAPITULO XIV**
 
-<div align="center">
+**Transitorios Inductivos**
+  
   
 </div>
 
