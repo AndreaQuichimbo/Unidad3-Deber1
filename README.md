@@ -39,7 +39,8 @@ Ing. Darwin Omar Alulema Flores
 **Transitorios Inductivos**
   
 ![image](https://user-images.githubusercontent.com/84430867/128661820-b4094596-a655-4ed2-bd60-e55986f8f7e7.png)
-  
+
+
 </div>
 
 # **3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
