@@ -110,9 +110,7 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/128572630-deff2e53-cfdf-4a02-9f4a-5413aceaecd4.png)
 
-![image](https://user-images.githubusercontent.com/84430867/129642118-a9dcad64-d9df-4c97-90e4-5f1724ddc9bc.png)
-  
-![image](https://user-images.githubusercontent.com/84430867/129642285-e034beab-e7a5-487d-86c5-fc65f9e940e4.png)
+![image](https://user-images.githubusercontent.com/84430867/129642537-d4a91306-4b56-497e-81ae-080e7b97be64.png)
 
 </div>
 
@@ -167,7 +165,7 @@ C. ¿Cuál es la corriente en t = 10 s?
 11. Para el circuito de la ﬁgura 14-1(b),el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V,la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
 
 <div align="center">
-  
+ 
 </div>
 
 13. Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
