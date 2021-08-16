@@ -82,9 +82,11 @@ Ing. Darwin Omar Alulema Flores
   
 ![image](https://user-images.githubusercontent.com/84430867/128572212-4e2c9758-43b8-4654-ba7f-903aae298c43.png)
 
+![image](https://user-images.githubusercontent.com/84430867/129635270-65e1cd5f-ea79-40b0-b64a-f6e7d9bee66a.png)
+
 </div>
 
-7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5amperes en un inductor de 10 H es de 180 volts. ¿Cuánto tiempo pasará paraque la corriente cambie de 3 a 5 amperes?
+7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10H es de 180 volts. ¿Cuánto tiempo pasará paraque la corriente cambie de 3 a 5 amperes?
 
 9. Calcule la inductancia de la bobina de núcleo de aire de la ﬁgura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm.
 
