@@ -88,12 +88,19 @@ Ing. Darwin Omar Alulema Flores
 
 7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10H es de 180 volts. ¿Cuánto tiempo pasará paraque la corriente cambie de 3 a 5 amperes?
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/129636170-896c8dc2-a35f-455d-835a-a0934e3b72b7.png)
+
+</div>
+
 9. Calcule la inductancia de la bobina de núcleo de aire de la ﬁgura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm.
 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/128572419-077a7683-2c01-42dc-b6e3-3a71bb9f7a8f.png)
 
+  
 </div>
 
 11. El inductor de núcleo de hierro de la ﬁgura 13-32 tiene un núcleo de alta per-meabilidad. Por ello, por medio de la ley de Ampere, NI = HaLa. Debido aque el espacio de aire predomina,no ocurre la saturación y el ﬂujo del núcleoes proporcional a la corriente,es decir,el enlace de ﬂujo es igual a LI Adicionalmente, ya que todo el ﬂujo pasa a través de la bobina, el enlace de ﬂujo es igual a NΦ. Al igualar los dos valores del enlace de ﬂujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
