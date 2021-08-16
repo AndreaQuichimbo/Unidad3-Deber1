@@ -120,6 +120,8 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84430867/128575228-bb7173e6-1fb5-4b3d-bc24-437ee76d440a.png)
 
+![image](https://user-images.githubusercontent.com/84430867/129643466-208a4030-1098-468e-9c75-d272323a16e2.png)
+
 </div>
 
 15. La ﬁgura 13-36 muestra la gráﬁca del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
