@@ -104,11 +104,13 @@ Ing. Darwin Omar Alulema Flores
   
 </div>
 
-11. El inductor de núcleo de hierro de la ﬁgura 13-32 tiene un núcleo de alta per-meabilidad. Por ello, por medio de la ley de Ampere, NI = HaLa. Debido aque el espacio de aire predomina,no ocurre la saturación y el ﬂujo del núcleoes proporcional a la corriente,es decir,el enlace de ﬂujo es igual a LI Adicionalmente, ya que todo el ﬂujo pasa a través de la bobina, el enlace de ﬂujo es igual a NΦ. Al igualar los dos valores del enlace de ﬂujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
+11. El inductor de núcleo de hierro de la ﬁgura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = HgLg. Debido aque el espacio de aire predomina, no ocurre la saturación y el ﬂujo del núcleo es proporcional a la corriente, es decir, el enlace de ﬂujo es igual a LI Adicionalmente, ya que todo el ﬂujo pasa a través de la bobina, el enlace de ﬂujo es igual a NΦ. Al igualar los dos valores del enlace de ﬂujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/128572630-deff2e53-cfdf-4a02-9f4a-5413aceaecd4.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129642118-a9dcad64-d9df-4c97-90e4-5f1724ddc9bc.png)
 
 </div>
 
