@@ -56,15 +56,17 @@ Ing. Darwin Omar Alulema Flores
 
 **13-2Voltaje inducido e inducción**
 
-1. Si el ﬂujo que enlaza una bobina de 75 vueltas (ﬁgura 13-29) cambia a la tasade 3 Wb/s,¿cuál es el voltaje en la bobina?
+1. Si el ﬂujo que enlaza una bobina de 75 vueltas (ﬁgura 13-29) cambia a la tasa de 3 Wb/s, ¿Cuál es el voltaje en la bobina?
 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/128571999-d99edb09-084f-4c72-a1ff-7b91c432f3fc.png)
 
+![image](https://user-images.githubusercontent.com/84430867/129632600-18f2a346-7b21-41d9-9812-b94b1817e32f.png)
+
 </div>
 
-3. El ﬂujo que cambia a una tasa uniforme por 1 ms induce 60 V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de ﬂujo ocurre en 0.01 s?
+3. El ﬂujo que cambia a una tasa uniforme por 1ms induce 60V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de ﬂujo ocurre en 0.01s?
 
 <div align="center">
   
