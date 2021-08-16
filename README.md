@@ -70,6 +70,8 @@ Ing. Darwin Omar Alulema Flores
 
 <div align="center">
   
+![image](https://user-images.githubusercontent.com/84430867/129633719-bc785533-eafe-42dd-875a-0b025531ae14.png)
+
 </div>
 
 **13.3Autoinductancia**
