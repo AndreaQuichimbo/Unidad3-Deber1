@@ -160,13 +160,27 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/84430867/129660680-4d0c9179-253a-42a9-b0ae-0daed30d7d9f.png)
+
 </div>
 
 **13-5Inductancias en serie y en paralelo**
 
-17. ¿Cuál es la inductancia equivalente de 12,14,22 y 36 mH conectados enserie?
+17. ¿Cuál es la inductancia equivalente de 12, 14, 22 y 36mH conectados enserie?
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/129661746-700b04d4-9824-4e4d-ad8d-55902511ac3a.png)
+
+</div>
 
 19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/129663075-2f17293e-d3bd-4068-891d-e8ed8074434a.png)
+
+</div>
 
 21. Determine LT para los circuitos de la ﬁgura 13-37.
 
@@ -186,6 +200,14 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 23. Una inductancia de 30 H está conectada en serie con una inductancia de 60 H, y una inductancia de 10 H está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/129663167-6e89ea80-dfe2-4718-a220-c90e9725ff1a.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129663213-4e29d862-7308-43d9-ab36-6e063bb62ebe.png)
+
+</div>
+  
 # Problemas Capitulo XIV
 
 11. Para el circuito de la ﬁgura 14-1(b),el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V,la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
