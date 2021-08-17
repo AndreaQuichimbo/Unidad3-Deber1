@@ -204,9 +204,9 @@ El circuito se reduce a
   
 ![image](https://user-images.githubusercontent.com/84430867/129666406-531d245b-93f1-45ab-9b55-0d480caa8374.png)
 
-![image](https://user-images.githubusercontent.com/84430867/129668035-fc5f0aaf-301b-44b5-a643-1a7c309e1cc0.png)
-
 ![image](https://user-images.githubusercontent.com/84430867/128588481-880b6cf7-8e62-4b64-99b7-409919770bf9.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129668035-fc5f0aaf-301b-44b5-a643-1a7c309e1cc0.png)
   
 El circuito se reduce a
   
