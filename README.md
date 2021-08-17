@@ -218,7 +218,7 @@ El circuito se reduce a
   
 ![image](https://user-images.githubusercontent.com/84430867/129666627-d1aa6f03-6d20-43e5-a1a9-9f95cb261bbe.png)
   
-![image](https://user-images.githubusercontent.com/84430867/129674593-b5a81bf4-cd32-45fc-b250-857b75243ef2.png)
+![image](https://user-images.githubusercontent.com/84430867/129674779-b9e7569e-a49b-4596-b6fc-0c66b07136d0.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/128588488-aaee0ad4-510a-42ec-9c3b-c22ad01d4e75.png)
 
