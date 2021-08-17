@@ -222,6 +222,18 @@ El circuito se reduce a
 
 ![image](https://user-images.githubusercontent.com/84430867/128588488-aaee0ad4-510a-42ec-9c3b-c22ad01d4e75.png)
 
+El circuito se reduce a
+  
+![image](https://user-images.githubusercontent.com/84430867/129675119-4d94166d-c991-4c9a-b0f2-2c4fd23a2c5b.png)
+
+El circuito se reduce a
+  
+![image](https://user-images.githubusercontent.com/84430867/129675064-3f68f700-af63-449f-89b6-da82a17d84d8.png)
+
+El circuito se reduce a
+  
+![image](https://user-images.githubusercontent.com/84430867/129675024-a2919253-5082-4fd6-a0b4-f7faf2eef847.png)
+
 </div>
 
 23. Una inductancia de 30 H está conectada en serie con una inductancia de 60 H, y una inductancia de 10 H está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
