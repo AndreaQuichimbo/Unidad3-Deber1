@@ -134,9 +134,33 @@ Ing. Darwin Omar Alulema Flores
 
 A. ¿Qué valor tiene L?
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84430867/129655796-e1344f7f-5133-4445-b4d9-9e62520f8e0f.png)
+
+</div>
+
 B. Determine la forma de onda de la corriente y grafíquela.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84430867/129659863-934c37df-e577-4de2-87d5-f45dbbb8ffa3.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129660073-7ec07cb5-22a6-4b88-bcb4-9c603f903905.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129660559-fb1af1f2-abad-457c-9da6-89f789751066.png)
+
+Gráfico de la forma de onda actual 
+  
+![image](https://user-images.githubusercontent.com/84430867/129659880-cdfb0fc1-cd49-4ec4-9b4e-3303b52034f4.png)
+
+</div>
+
 C. ¿Cuál es la corriente en t = 10 s?
+
+<div align="center">
+
+</div>
 
 **13-5Inductancias en serie y en paralelo**
 
