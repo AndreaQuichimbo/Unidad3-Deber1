@@ -242,11 +242,13 @@ El circuito se reduce a
 
 ![image](https://user-images.githubusercontent.com/84430867/129663167-6e89ea80-dfe2-4718-a220-c90e9725ff1a.png)
 
+![image](https://user-images.githubusercontent.com/84430867/129789974-d11f5879-2bcf-449c-8f8d-32aad676f006.png)
 
-
+Simplificamos el circuito
+  
 ![image](https://user-images.githubusercontent.com/84430867/129663213-4e29d862-7308-43d9-ab36-6e063bb62ebe.png)
 
-
+![image](https://user-images.githubusercontent.com/84430867/129789894-91625c75-93ab-49e9-a6e9-eefb0ed13ca5.png)
 
 </div>
   
