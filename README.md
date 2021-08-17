@@ -188,11 +188,37 @@ C. ¿Cuál es la corriente en t = 10 s?
   
 ![image](https://user-images.githubusercontent.com/84430867/128588411-1a90abdc-a81e-44be-9695-2476874bed7a.png)
 
+![image](https://user-images.githubusercontent.com/84430867/129664184-b3dfbffb-70d4-477d-b5d4-844f36e69b26.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/128588438-94873541-2059-4826-b8cf-6e5e41c91516.png)
 
+![image](https://user-images.githubusercontent.com/84430867/129664207-c97f0c7b-d51f-488e-b359-315b520f2497.png)
+  
 ![image](https://user-images.githubusercontent.com/84430867/128588475-c26dc658-686c-4b96-a6f9-33fbcbbece15.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/129665960-e01a972c-ac81-4022-a720-3e15ad82d2ad.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129668035-fc5f0aaf-301b-44b5-a643-1a7c309e1cc0.png)
+
+El circuito se reduce a
+  
+![image](https://user-images.githubusercontent.com/84430867/129666235-7919727d-d947-4c7b-88a7-5c65ef439860.png)
+
+![image](https://user-images.githubusercontent.com/84430867/129668405-122aab7a-9e29-4610-8f4e-b3dad7ad6513.png)
+
+
+![image](https://user-images.githubusercontent.com/84430867/129666406-531d245b-93f1-45ab-9b55-0d480caa8374.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/128588481-880b6cf7-8e62-4b64-99b7-409919770bf9.png)
+
+
+El circuito se reduce a
+  
+![image](https://user-images.githubusercontent.com/84430867/129666587-3e2772f6-50dc-4666-88d2-5a6affeeb0f8.png)
+  
+El circuito se reduce a
+  
+![image](https://user-images.githubusercontent.com/84430867/129666627-d1aa6f03-6d20-43e5-a1a9-9f95cb261bbe.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/128588488-aaee0ad4-510a-42ec-9c3b-c22ad01d4e75.png)
 
@@ -204,7 +230,11 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 ![image](https://user-images.githubusercontent.com/84430867/129663167-6e89ea80-dfe2-4718-a220-c90e9725ff1a.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/84430867/129663213-4e29d862-7308-43d9-ab36-6e063bb62ebe.png)
+
+
 
 </div>
   
