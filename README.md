@@ -207,12 +207,12 @@ El circuito se reduce a
 ![image](https://user-images.githubusercontent.com/84430867/129668035-fc5f0aaf-301b-44b5-a643-1a7c309e1cc0.png)
 
 ![image](https://user-images.githubusercontent.com/84430867/128588481-880b6cf7-8e62-4b64-99b7-409919770bf9.png)
-
-![image](https://user-images.githubusercontent.com/84430867/129668405-122aab7a-9e29-4610-8f4e-b3dad7ad6513.png)
   
 El circuito se reduce a
   
 ![image](https://user-images.githubusercontent.com/84430867/129666587-3e2772f6-50dc-4666-88d2-5a6affeeb0f8.png)
+  
+![image](https://user-images.githubusercontent.com/84430867/129668405-122aab7a-9e29-4610-8f4e-b3dad7ad6513.png)
   
 El circuito se reduce a
   
