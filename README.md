@@ -54,7 +54,7 @@ Ing. Darwin Omar Alulema Flores
 
 # Problemas Capitulo XIII
 
-**13-2Voltaje inducido e inducción**
+**13-2 Voltaje inducido e inducción**
 
 1. Si el ﬂujo que enlaza una bobina de 75 vueltas (ﬁgura 13-29) cambia a la tasa de 3 Wb/s, ¿Cuál es el voltaje en la bobina?
 
@@ -74,7 +74,7 @@ Ing. Darwin Omar Alulema Flores
 
 </div>
 
-**13.3Autoinductancia**
+**13.3 Autoinductancia**
 
 5. La corriente en un inductor de 75 mH (ﬁgura 13-30) cambia uniformementepor 200 µA en 0.1 ms. ¿Cuál es el voltaje en él?
 
@@ -260,7 +260,7 @@ Simplificamos el circuito
   
 # Problemas Capitulo XIV
 
-11. Para el circuito de la ﬁgura 14-1(b),el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V,la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
+11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
 
 <div align="center">
  
@@ -268,7 +268,7 @@ Simplificamos el circuito
 
 13. Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
 
-**14-4Transitorios desenergizantes**
+**14-4 Transitorios desenergizantes**
 
 15. Para la ﬁgura 14-43, R1 = 20, R2 = 230  y L 0.5 H y la corriente delinductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0s, el interruptor se abre.
 
@@ -300,7 +300,7 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
 
 </div>
 
-23.Para la ﬁgura 14-46,el circuito ha alcanzado el estado estable con el interrup-tor cerrado. Ahora se abre el interruptor.
+23. Para la ﬁgura 14-46,el circuito ha alcanzado el estado estable con el interrup-tor cerrado. Ahora se abre el interruptor.
 
 a. Determine la constante de tiempo del circuito desenergizado.
 
