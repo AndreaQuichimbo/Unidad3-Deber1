@@ -198,8 +198,6 @@ C. ¿Cuál es la corriente en t = 10 s?
   
 ![image](https://user-images.githubusercontent.com/84430867/129665960-e01a972c-ac81-4022-a720-3e15ad82d2ad.png)
 
-![image](https://user-images.githubusercontent.com/84430867/129668035-fc5f0aaf-301b-44b5-a643-1a7c309e1cc0.png)
-
 El circuito se reduce a
   
 ![image](https://user-images.githubusercontent.com/84430867/129666235-7919727d-d947-4c7b-88a7-5c65ef439860.png)
