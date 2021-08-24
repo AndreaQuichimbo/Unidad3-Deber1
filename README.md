@@ -300,6 +300,12 @@ Simplificamos el circuito
   
 </div>
 
+13.8 Energía almacenada por una  inductancia.
+
+33.- Encuentre la energía almacenada en el inductor de la figura 13-44.
+
+![image](https://user-images.githubusercontent.com/84587172/130541215-32c7ff41-4b28-4442-b36c-495b368cbc99.png)
+
 # Problemas Capitulo XIV
 
 11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
