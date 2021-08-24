@@ -318,6 +318,26 @@ Simplificamos el circuito
 
 # Problemas Capitulo XIV
 
+**14.1 Introducción **
+
+1.- a ¿A qué se parece un inductor que no conduce corriente en el instante que se acciona el interruptor?
+
+**Circuito Abierto**
+
+b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente después de que el interruptor se cierra.
+
+<div align="center">
+
+![1](https://user-images.githubusercontent.com/84587172/130541704-d0eccec5-8597-4c2e-93cf-2bc23a18d6e7.png)
+
+![2](https://user-images.githubusercontent.com/84587172/130541714-388124a0-0fc9-4d45-8c08-543b0b81f981.png)
+
+![3](https://user-images.githubusercontent.com/84587172/130541723-211e4199-6678-4b67-a02d-0e24e162f8c4.png)
+
+![4](https://user-images.githubusercontent.com/84587172/130541737-e9f93cf9-732d-4d5d-aca0-fc1e27e82f13.png)
+    
+</div>
+
 11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
 
 <div align="center">
