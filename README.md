@@ -270,6 +270,14 @@ Simplificamos el circuito
 
 </div>
 
+27.- Dos inductancias de 6 y 4 H están conectados en paralelo. Después de que se agrega una tercera inductancia, LT = 4 H. ¿Cuál es el valor de la tercera inductancia y cómo está conectada?
+
+<div align="center">
+
+![4](https://user-images.githubusercontent.com/84587172/130540700-e7ce5a6a-60b8-4a80-9d77-1aa77343de07.png)
+    
+</div>
+
 # Problemas Capitulo XIV
 
 11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
