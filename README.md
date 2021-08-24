@@ -396,9 +396,29 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 
 <div align="center">
  
-</div>
+ ![image](https://user-images.githubusercontent.com/84587293/130615177-63b67327-5aae-41c3-b2b9-2c6db4df70ea.png
+ 
+![image](https://user-images.githubusercontent.com/84587293/130615211-900df55c-75c6-4d21-b2c4-8f8a5112c4e3.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130615345-11ab09d5-c613-4982-a386-0c40814096da.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130615398-67988df0-00bd-4c30-ba54-19095981adea.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130615443-109dfffb-99a5-4975-8e0c-06e4bfd75c93.png)
+  
+  </div>
 
 13. Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/130615517-39b818a4-2435-477a-9343-5ab8d37beb0b.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130615574-35c81e10-381b-40f8-ae54-a43e62fb261b.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130615644-222a52f8-3d0c-4f98-92bf-718f78d254d3.png)
+  
+ </div>
 
 **14-4 Transitorios desenergizantes**
 
@@ -406,11 +426,27 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 
 a. ¿Cuál es la constante de tiempo en la fase de disminución?.
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/130616062-fdd66be7-48ec-44c7-96c5-10a6578c16d2.png)
+
+ </div>  
+  
 b. Determine las ecuaciones para iL y vL.
+
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/130616264-8f9d7a46-cd77-4379-814a-5534ffd310ed.png)
+
+ </div>    
 
 c. Calcule los valores para i L y v L a intervalos de una constante de tiempo desde t = 0 hasta 5t.
 
+
+
 d. Graﬁque iL y vL. Marque el eje en t y en segundos.
+
+
 
 17. Dado vL = -2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms
 
