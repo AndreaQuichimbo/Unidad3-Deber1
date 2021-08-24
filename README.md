@@ -285,6 +285,13 @@ Simplificamos el circuito
 ![5](https://user-images.githubusercontent.com/84587172/130540834-1399af9f-55bc-4115-a287-67a907edf5e3.png)
     
 </div>  
+
+31.- Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
+
+<div align="center">
+  
+</div>
+
 # Problemas Capitulo XIV
 
 11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
