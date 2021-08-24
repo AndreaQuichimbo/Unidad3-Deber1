@@ -30,29 +30,29 @@ Ing. Darwin Omar Alulema Flores
 
 Objetivos Generales
 
--Describir qué es un inductor y cuáles su efecto en la operación de un circuito,  y explicar la ley de Faraday y la ley de Lenz
+- Describir qué es un inductor y cuáles su efecto en la operación de un circuito,  y explicar la ley de Faraday y la ley de Lenz
 
--Explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
+- Explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
 
 Objetivos Específicos
 
--Calcular el voltaje inducido mediante la ley de Faraday.
+- Calcular el voltaje inducido mediante la ley de Faraday.
 
--Deﬁnir inductancia.
+- Deﬁnir inductancia.
 
--Calcular el voltaje en una  inductancia.
+- Calcular el voltaje en una  inductancia.
 
--Calcular la inductancia para conﬁguraciones en serie y en paralelo.
+- Calcular la inductancia para conﬁguraciones en serie y en paralelo.
 
--Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
+- Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
 
--Calcular la energía almacenada en una inductancia.
+- Calcular la energía almacenada en una inductancia.
 
--Calcular las constantes de tiempo para los circuitos rl.
+- Calcular las constantes de tiempo para los circuitos rl.
 
--Calcular los transitorios de voltaje y corriente en circuitos rl  durante la  fase de crecimiento de la corriente.
+- Calcular los transitorios de voltaje y corriente en circuitos rl  durante la  fase de crecimiento de la corriente.
 
--Calcular los transitorios de voltaje y corriente en circuitos rl  durante la fase de disminución de la corriente.
+- Calcular los transitorios de voltaje y corriente en circuitos rl  durante la fase de disminución de la corriente.
 
 # 2. MARCO TEORICO
 
