@@ -518,6 +518,12 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
 
 23. Para la ﬁgura 14-46,el circuito ha alcanzado el estado estable con el interrup-tor cerrado. Ahora se abre el interruptor.
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/130628143-7bb80f02-aacd-4552-b788-2fc0a2209e83.png)
+
+</div> 
+  
 a. Determine la constante de tiempo del circuito desenergizado.
 
 <div align="center">
