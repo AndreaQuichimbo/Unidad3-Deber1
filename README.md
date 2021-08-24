@@ -396,7 +396,7 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 
 <div align="center">
  
- ![image](https://user-images.githubusercontent.com/84587293/130615177-63b67327-5aae-41c3-b2b9-2c6db4df70ea.png
+![image](https://user-images.githubusercontent.com/84587293/130615177-63b67327-5aae-41c3-b2b9-2c6db4df70ea.png
  
 ![image](https://user-images.githubusercontent.com/84587293/130615211-900df55c-75c6-4d21-b2c4-8f8a5112c4e3.png)
 
