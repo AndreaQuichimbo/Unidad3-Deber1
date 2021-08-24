@@ -291,6 +291,8 @@ Simplificamos el circuito
 <div align="center">
 
 ![6](https://user-images.githubusercontent.com/84587172/130540947-19c4efa5-ef15-46d2-9209-97a4d0283009.png)
+
+![7](https://user-images.githubusercontent.com/84587172/130540968-d503ad2b-2e09-4e8e-bad8-5ce4c0259bdd.png)
   
 </div>
 
