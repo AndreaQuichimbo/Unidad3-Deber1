@@ -40,7 +40,7 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84587172/130553132-38b00847-c944-49f0-b02c-79c6ec5c3ec6.png)
 
-! [imagen] (https://user-images.githubusercontent.com/84587172/130553008-cd399a26-df24-4768-8d20-503085c91c72.png)
+![image](https://user-images.githubusercontent.com/84587172/130553189-9b332375-9706-46f4-a2b8-2071f58cc9f0.png)
   
 **CAPITULO XIV**
 
