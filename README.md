@@ -316,6 +316,11 @@ Simplificamos el circuito
 
 35- En la figura 13-46, un medidor  de inductancia mide 7H. ¿Cuál es la falla probable?
 
+<div align="center">
+  
+![3](https://user-images.githubusercontent.com/84587172/130543861-0e6c2b50-7921-45a7-bd72-aa82bc396a5f.png)
+
+</div>  
 # Problemas Capitulo XIV
 
 **14.1 Introducción **
@@ -337,8 +342,6 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 ![4](https://user-images.githubusercontent.com/84587172/130541737-e9f93cf9-732d-4d5d-aca0-fc1e27e82f13.png)
     
 </div>
-
-3.- Determine todos los voltajes y corrientes en la figura 14-38 inmediatamente después de que el interruptor se cierra.
 
 **14-2 Transitorio de corriente creciente.**
 
