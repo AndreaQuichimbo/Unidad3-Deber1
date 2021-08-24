@@ -369,6 +369,17 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 ![11](https://user-images.githubusercontent.com/84587172/130542387-215cbb2f-8e7e-4556-a72a-c5a7a905243f.png)
 
 </div>
+
+9.- Cierre el interruptor en t = 0 s y determine las ecuaciones para iL y vL para el circuito de la figura 14-42. Calcule iL y vL  en t = 3.4 ms.
+
+<div align="center">
+  
+![1](https://user-images.githubusercontent.com/84587172/130542587-01733a5f-3252-4dce-be08-f6dd8492e5ce.png)
+
+![2](https://user-images.githubusercontent.com/84587172/130542598-06ca6c24-447e-4d16-9841-f9c9862e08de.png)
+
+</div>
+
 11. Para el circuito de la ﬁ gura 14-1 (b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente ﬁ nal del estado estable es4 A, y el transitorio dura 0.5 s . Determine E, R y L.
 
 <div align="center">
