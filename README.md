@@ -338,6 +338,24 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
     
 </div>
 
+3.- Determine todos los voltajes y corrientes en la figura 14-38 inmediatamente después de que el interruptor se cierra.
+
+**14-2 Transitorio de corriente creciente.**
+
+5.- El interruptor de la figura 14-39 está cerrado en t = 0s.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587172/130541859-0faf30c5-d777-4d34-818b-7ff5a65135dd.png)
+
+![5](https://user-images.githubusercontent.com/84587172/130541957-ae4a9604-3620-48be-b48d-bc327174097b.png)
+
+![6](https://user-images.githubusercontent.com/84587172/130541965-bec557e7-c71a-45c2-bb9b-c9f9b362991d.png)
+
+![7](https://user-images.githubusercontent.com/84587172/130541966-42c7a34e-0888-4c6d-b4ac-2b30a11a25c3.png)
+
+</div>
+
 11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
 
 <div align="center">
