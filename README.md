@@ -260,11 +260,15 @@ Simplificamos el circuito
 
 25.- Para los circuitos de la figura 13-40 determine L3 y L4
 
+<div align="center">
+  
 ![3](https://user-images.githubusercontent.com/84587172/130540275-b85293d6-56b4-4932-ada8-974c88ee2979.png)
 
 ![1](https://user-images.githubusercontent.com/84587172/130540283-5cd6d234-ce5b-4846-98eb-7ffeaa7afb44.png)
 
 ![2](https://user-images.githubusercontent.com/84587172/130540289-64ab390e-17e5-4cd3-a2b6-361b8c46de4f.png)
+
+</div>
 
 # Problemas Capitulo XIV
 
