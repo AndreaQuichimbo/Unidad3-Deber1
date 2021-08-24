@@ -312,6 +312,10 @@ Simplificamos el circuito
     
 </div>
 
+13.9 Sugerencias para la resolución de problemas con inductores.
+
+35- En la figura 13-46, un medidor  de inductancia mide 7H. ¿Cuál es la falla probable?
+
 # Problemas Capitulo XIV
 
 11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
