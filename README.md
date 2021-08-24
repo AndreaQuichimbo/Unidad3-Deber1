@@ -34,6 +34,8 @@ Ing. Darwin Omar Alulema Flores
   
 **CAPITULO XIII**
 
+![image](https://user-images.githubusercontent.com/84587172/130547668-ea9e0dc1-e6ce-47d6-89f6-b1542d0922af.png)  
+  
 **CAPITULO XIV**
 
 **Transitorios Inductivos**
