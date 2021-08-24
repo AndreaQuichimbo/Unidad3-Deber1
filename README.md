@@ -575,43 +575,17 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 </div>
 
-**14-6Transitorios RL con computadora**
-
-29. El circuito de la ﬁgura 14-46 está en estado estable con el interruptor abierto. En t = 0,se cierra y permanece así. Graﬁque el voltaje en L y encuentre vL en 20 ms con el cursor.
-
-<div align="center">
-  
-![image](https://user-images.githubusercontent.com/84430867/128589540-56becb7f-a6cf-4c5f-9fd7-97f5b0cf6901.png)
-
-</div>
-
-31. Para la ﬁgura 14-46, sea L1 = 30 mH y L2 = 90 mH. Cierre el interruptor en t = 0 y determine la corriente en el resistor de 30 Ω en t 2ms.
-
-<div align="center">
- 
-![image](https://user-images.githubusercontent.com/84430867/128589681-ef09b3f0-2bdb-48b9-b715-f6dba9348eda.png)
-
-</div>
-
- 
-33. Se resolvió el circuito de la ﬁgura 14-22(a) mediante la reducción a su equiva-lente de Thévenin. Use PSpice para analizar el circuito en su forma original ygraﬁque la corriente del inductor. Veriﬁque algunos puntos en la curva calculando los valores de acuerdo con la solución del ejemplo 14-8 y compare conlos valores que obtuvo en la pantalla.
-
-<div align="center">
- 
-
-</div>
-
 # 4. VIDEO
 
 # 5. CONCLUSIONES
 
-• Un inductor es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide.En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
+- Un inductor es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide.En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
 
-• La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
+- La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
 
-•	Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
+-	Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
 
-•	En circuitos RL el tanto el voltaje como la corriente funcionan dependiendo del caso, es decir, cuando hay crecimiento la corriente empieza desde 0 hasta llegar un punto en el que se estabiliza, sin embargo, el voltaje funciona al contrario es decir empieza con el voltaje máximo y va descendiendo hasta 0. Ocurre lo contrario en la fase de decrecimiento es decir la corriente empieza en el valor estable hasta 0 y el voltaje empieza en 0 hasta llegar al voltaje máximo
+-	En circuitos RL el tanto el voltaje como la corriente funcionan dependiendo del caso, es decir, cuando hay crecimiento la corriente empieza desde 0 hasta llegar un punto en el que se estabiliza, sin embargo, el voltaje funciona al contrario es decir empieza con el voltaje máximo y va descendiendo hasta 0. Ocurre lo contrario en la fase de decrecimiento es decir la corriente empieza en el valor estable hasta 0 y el voltaje empieza en 0 hasta llegar al voltaje máximo
 
 # 6. BIBLIOGRAFÍAS
 
