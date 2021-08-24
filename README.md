@@ -28,6 +28,32 @@ Ing. Darwin Omar Alulema Flores
 
 # 1.OBJETIVOS
 
+Objetivos Generales
+
+-Describir qué es un inductor y cuáles su efecto en la operación de un circuito,  y explicar la ley de Faraday y la ley de Lenz
+
+-Explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
+
+Objetivos Específicos
+
+-Calcular el voltaje inducido mediante la ley de Faraday.
+
+-Deﬁnir inductancia.
+
+-Calcular el voltaje en una  inductancia.
+
+-Calcular la inductancia para conﬁguraciones en serie y en paralelo.
+
+-Calcular voltajes y corrientes del inductor para la excitación de cd en estado estable.
+
+-Calcular la energía almacenada en una inductancia.
+
+-Calcular las constantes de tiempo para los circuitos rl.
+
+-Calcular los transitorios de voltaje y corriente en circuitos rl  durante la  fase de crecimiento de la corriente.
+
+-Calcular los transitorios de voltaje y corriente en circuitos rl  durante la fase de disminución de la corriente.
+
 # 2. MARCO TEORICO
 
 <div align="center">
@@ -572,6 +598,14 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 # 4. VIDEO
 
 # 5. CONCLUSIONES
+
+•Un inductor es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide.En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
+
+•La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
+
+•	Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
+
+•	En circuitos RL el tanto el voltaje como la corriente funcionan dependiendo del caso, es decir, cuando hay crecimiento la corriente empieza desde 0 hasta llegar un punto en el que se estabiliza, sin embargo, el voltaje funciona al contrario es decir empieza con el voltaje máximo y va descendiendo hasta 0. Ocurre lo contrario en la fase de decrecimiento es decir la corriente empieza en el valor estable hasta 0 y el voltaje empieza en 0 hasta llegar al voltaje máximo
 
 # 6. BIBLIOGRAFÍAS
 
