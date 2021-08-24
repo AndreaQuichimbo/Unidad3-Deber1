@@ -356,7 +356,20 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 
 </div>
 
-11. Para el circuito de la ﬁgura 14-1(b), el voltaje en la inductancia en el instanteen que el interruptor se cierra es 80 V, la corriente ﬁnal de estado estable es4 A,y el transitorio dura 0.5 s. Determine E, R y L.
+7.- Repita el problema 5 para el circuito de la figura 14-41 con L = 4H.
+
+<div align="center">
+  
+![8](https://user-images.githubusercontent.com/84587172/130542370-89d048c3-73a8-4aed-9498-ee2495734bf6.png)
+
+![9](https://user-images.githubusercontent.com/84587172/130542377-d8b8a1c0-8352-4c5a-977e-3e720e59146a.png)
+
+![10](https://user-images.githubusercontent.com/84587172/130542381-0125eefc-d84c-4960-8c9e-2b51854511de.png)
+
+![11](https://user-images.githubusercontent.com/84587172/130542387-215cbb2f-8e7e-4556-a72a-c5a7a905243f.png)
+
+</div>
+11. Para el circuito de la ﬁ gura 14-1 (b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente ﬁ nal del estado estable es4 A, y el transitorio dura 0.5 s . Determine E, R y L.
 
 <div align="center">
  
