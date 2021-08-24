@@ -577,6 +577,8 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 # 4. VIDEO
 
+https://youtu.be/UAbV6vbANFg
+
 # 5. CONCLUSIONES
 
 - Un inductor es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide.En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
