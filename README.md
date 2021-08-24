@@ -289,6 +289,8 @@ Simplificamos el circuito
 31.- Por medio de la combinación de elementos, reduzca cada uno de los circuitos de la figura 13-42 a su forma más simple.
 
 <div align="center">
+
+![6](https://user-images.githubusercontent.com/84587172/130540947-19c4efa5-ef15-46d2-9209-97a4d0283009.png)
   
 </div>
 
