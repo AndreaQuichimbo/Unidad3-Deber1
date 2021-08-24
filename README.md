@@ -599,9 +599,9 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
 
 # 5. CONCLUSIONES
 
-•Un inductor es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide.En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
+• Un inductor es un componente eléctrico que produce inducción. Concretamente, induce un campo magnético cuando es atravesado por una corriente. También se le llama bobina o solenoide.En principio, cualquier conductor podría usarse para construir una bobina. Se elabora enrollando alambre conductor en círculos, dando varias vueltas, de modo de formar un helicoide. Para evitar que el alambre enrollado entre en cortocircuito al hacer contacto consigo mismo al enrollarse, se emplea alambre esmaltado en la confección del inductor. Cada vuelta que el alambre efectúa se llama espira.
 
-•La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
+• La inductancia es la propiedad de un circuito eléctrico para resistir el cambio de corriente. Es decir, cuando una corriente fluye a través de un conductor, se crea un campo magnético ese campo afecta la operación del circuito.
 
 •	Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
 
