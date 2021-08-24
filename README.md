@@ -442,14 +442,28 @@ b. Determine las ecuaciones para iL y vL.
 
 c. Calcule los valores para i L y v L a intervalos de una constante de tiempo desde t = 0 hasta 5t.
 
+<div align="center">
 
+![image](https://user-images.githubusercontent.com/84587293/130617032-aa51b852-3fb0-442c-bfe7-7d3ae3cd8686.png)
 
+ </div>     
+  
 d. Graﬁque iL y vL. Marque el eje en t y en segundos.
 
-
-
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/130617114-62f04839-9e06-4d5b-aed1-25a5f446b812.png)
+  
+ </div>
+ 
 17. Dado vL = -2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms
 
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/84587293/130617215-8ee211ae-d915-470a-8789-774d5d1e0b7f.png)
+
+ </div>  
+  
 19. Para la ﬁgura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la ﬁgura 14-44. Determine R1 y R2
 
 <div align="center">
