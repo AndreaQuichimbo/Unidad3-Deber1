@@ -470,6 +470,12 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
   
 ![image](https://user-images.githubusercontent.com/84430867/128589361-8f4a1836-cb42-45a9-b690-e27472b59ad8.png)
   
+![image](https://user-images.githubusercontent.com/84587293/130617528-ca3bc206-f45c-4707-9522-d8f8693a12e5.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130617972-465fd11f-ddca-41c2-adad-1273d2d2b995.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130618052-e641e647-2fc0-4191-a622-7895a845c365.png)
+  
 </div>
 
 **14-5Circuitos más complejos**
@@ -480,25 +486,60 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
   
 ![image](https://user-images.githubusercontent.com/84430867/128589411-3e8b5253-f18a-4822-9e3f-e65ca67f7da6.png)
 
+![image](https://user-images.githubusercontent.com/84587293/130618635-d35028dc-0fc2-4836-bc77-7e953a47f5be.png)
+ 
 </div>
 
 23. Para la ﬁgura 14-46,el circuito ha alcanzado el estado estable con el interrup-tor cerrado. Ahora se abre el interruptor.
 
 a. Determine la constante de tiempo del circuito desenergizado.
 
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/130620426-12ea10be-7c64-400f-8236-92c6ab7e1236.png)
+  
+</div>  
+
 b. Determine las ecuaciones para iL y vL.
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/130620508-e283f3e6-564c-441d-ba66-a5cca7fa3f64.png)
+  
+</div>  
 
 c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17.8
 
-25. a. Repita el problema 22,partes (a) y (b) para el circuito de la ﬁgura14-47.
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/130620558-12527156-0e63-452d-9066-374cab37a9ee.png)
 
+</div>  
+
+25. a. Repita el problema 22,partes (a) y (b) para el circuito de la ﬁgura14-47.
 b. ¿Cuánto es iL y vL en t = 25 ms?
+
+<div align="center">
+  
+![image](https://user-images.githubusercontent.com/84587293/130620801-92829e8e-3d78-4bfa-b631-413868314c02.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130621629-6554f363-3211-4d32-bab1-5bdb05007c3f.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130621659-27619da9-6c6e-4cf8-ab89-ca28617d1abf.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130621711-61bac164-d7f0-422a-81b5-a8e8e10c0a3e.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130621753-e77c7148-34a5-4233-b493-03e01126abc8.png)
+  
+</div>  
 
 27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltajea circuito abierto de 45 volts. Cuando sus terminales de salida se ponen encorto,la corriente de cortocircuito es 0.15 A. Un interruptor,resistor e induc-tancia están conectados (ﬁgura 14-48). Determine la corriente y el voltaje delinductor, 2.5 ms después que el interruptor se ha cerrado
 
 <div align="center">
   
 ![image](https://user-images.githubusercontent.com/84430867/128589480-5c8170c9-b83b-4d93-9563-67fb31b8914a.png)
+
+![image](https://user-images.githubusercontent.com/84587293/130622494-980267d0-d531-46d1-98da-72d47c699afe.png)
 
 </div>
 
