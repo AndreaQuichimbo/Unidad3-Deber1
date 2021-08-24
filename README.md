@@ -300,7 +300,7 @@ Simplificamos el circuito
   
 </div>
 
-13.8 Energía almacenada por una  inductancia.
+**13.8 Energía almacenada por una  inductancia.**
 
 33.- Encuentre la energía almacenada en el inductor de la figura 13-44.
 
@@ -312,7 +312,7 @@ Simplificamos el circuito
     
 </div>
 
-13.9 Sugerencias para la resolución de problemas con inductores.
+**13.9 Sugerencias para la resolución de problemas con inductores.**
 
 35- En la figura 13-46, un medidor  de inductancia mide 7H. ¿Cuál es la falla probable?
 
@@ -321,6 +321,7 @@ Simplificamos el circuito
 ![3](https://user-images.githubusercontent.com/84587172/130543861-0e6c2b50-7921-45a7-bd72-aa82bc396a5f.png)
 
 </div>  
+
 # Problemas Capitulo XIV
 
 **14.1 Introducción **
