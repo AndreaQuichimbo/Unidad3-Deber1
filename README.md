@@ -38,9 +38,9 @@ Ing. Darwin Omar Alulema Flores
 
 ![image](https://user-images.githubusercontent.com/84587172/130553053-1d534b06-a5dc-4c35-b7cb-93f519c07902.png)
 
-! [imagen] (https://user-images.githubusercontent.com/84587172/130549975-c170a7b1-a331-4186-9e24-a682e1aa69ec.png)
+![image](https://user-images.githubusercontent.com/84587172/130553132-38b00847-c944-49f0-b02c-79c6ec5c3ec6.png)
 
-![image](https://user-images.githubusercontent.com/84587172/130553008-cd399a26-df24-4768-8d20-503085c91c72.png)
+! [imagen] (https://user-images.githubusercontent.com/84587172/130553008-cd399a26-df24-4768-8d20-503085c91c72.png)
   
 **CAPITULO XIV**
 
