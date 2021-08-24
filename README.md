@@ -304,7 +304,13 @@ Simplificamos el circuito
 
 33.- Encuentre la energía almacenada en el inductor de la figura 13-44.
 
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/84587172/130541215-32c7ff41-4b28-4442-b36c-495b368cbc99.png)
+
+![10](https://user-images.githubusercontent.com/84587172/130541304-a38f036b-d794-494e-9be1-661ab9984f6b.png)
+    
+</div>
 
 # Problemas Capitulo XIV
 
