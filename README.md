@@ -30,7 +30,7 @@ Ing. Darwin Omar Alulema Flores
 
 Objetivos Generales
 
-- Describir qué es un inductor y cuáles su efecto en la operación de un circuito,  y explicar la ley de Faraday y la ley de Lenz
+- Describir qué es un inductor y cuáles su efecto en la operación de un circuito,  y explicar la ley de Faraday y la ley de Lenz.
 
 - Explicar por qué ocurren los transitorios en los circuitos RL, explicar por qué un inductor con condición inicial cero parece un circuito abierto cuando se le provee energía.
 
@@ -90,7 +90,7 @@ Objetivos Específicos
 
 **13-2 Voltaje inducido e inducción**
 
-1. Si el ﬂujo que enlaza una bobina de 75 vueltas (ﬁgura 13-29) cambia a la tasa de 3 Wb/s, ¿Cuál es el voltaje en la bobina?
+1.- Si el ﬂujo que enlaza una bobina de 75 vueltas (ﬁgura 13-29) cambia a la tasa de 3 Wb/s, ¿Cuál es el voltaje en la bobina?
 
 <div align="center">
   
@@ -100,7 +100,7 @@ Objetivos Específicos
 
 </div>
 
-3. El ﬂujo que cambia a una tasa uniforme por 1ms induce 60V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de ﬂujo ocurre en 0.01s?
+3.- El ﬂujo que cambia a una tasa uniforme por 1ms induce 60V en una bobina. ¿Cuál es el voltaje inducido si el mismo cambio de ﬂujo ocurre en 0.01s?
 
 <div align="center">
   
@@ -110,7 +110,7 @@ Objetivos Específicos
 
 **13.3 Autoinductancia**
 
-5. La corriente en un inductor de 75 mH (ﬁgura 13-30) cambia uniformementepor 200 µA en 0.1 ms. ¿Cuál es el voltaje en él?
+5.- La corriente en un inductor de 75 mH (ﬁgura 13-30) cambia uniformementepor 200 µA en 0.1 ms. ¿Cuál es el voltaje en él?
 
 <div align="center">
   
@@ -120,7 +120,7 @@ Objetivos Específicos
 
 </div>
 
-7. El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10H es de 180 volts. ¿Cuánto tiempo pasará paraque la corriente cambie de 3 a 5 amperes?
+7.- El voltaje inducido cuando la corriente cambia de forma uniforme de 3 a 5 amperes en un inductor de 10H es de 180 volts. ¿Cuánto tiempo pasará paraque la corriente cambie de 3 a 5 amperes?
 
 <div align="center">
   
@@ -128,7 +128,7 @@ Objetivos Específicos
 
 </div>
 
-9. Calcule la inductancia de la bobina de núcleo de aire de la ﬁgura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm.
+9.- Calcule la inductancia de la bobina de núcleo de aire de la ﬁgura 13-31, si l = 20 cm, N = 200 vueltas, y d = 2 cm.
 
 <div align="center">
   
@@ -138,7 +138,7 @@ Objetivos Específicos
   
 </div>
 
-11. El inductor de núcleo de hierro de la ﬁgura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = HgLg. Debido aque el espacio de aire predomina, no ocurre la saturación y el ﬂujo del núcleo es proporcional a la corriente, es decir, el enlace de ﬂujo es igual a LI Adicionalmente, ya que todo el ﬂujo pasa a través de la bobina, el enlace de ﬂujo es igual a NΦ. Al igualar los dos valores del enlace de ﬂujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
+11.- El inductor de núcleo de hierro de la ﬁgura 13-32 tiene un núcleo de alta permeabilidad. Por ello, por medio de la ley de Ampere, NI = HgLg. Debido aque el espacio de aire predomina, no ocurre la saturación y el ﬂujo del núcleo es proporcional a la corriente, es decir, el enlace de ﬂujo es igual a LI Adicionalmente, ya que todo el ﬂujo pasa a través de la bobina, el enlace de ﬂujo es igual a NΦ. Al igualar los dos valores del enlace de ﬂujo y con las ideas del capítulo 12, demuestre que la inductancia de la bobina es
 
 <div align="center">
   
@@ -148,7 +148,7 @@ Objetivos Específicos
 
 </div>
 
-13. La ﬁgura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 mses de 100 volts, ¿Qué valor tiene L?
+13.- La ﬁgura 13-34 muestra la corriente en una bobina. Si el voltaje de 0 a 2 mses de 100 volts, ¿Qué valor tiene L?
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Objetivos Específicos
 
 </div>
 
-15. La ﬁgura 13-36 muestra la gráﬁca del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
+15.- La ﬁgura 13-36 muestra la gráﬁca del voltaje en una inductancia. Los cambios en la corriente de 4 a 5 A durante el intervalo de tiempo de 4 a 5 s.
 
 <div align="center">
 
@@ -200,7 +200,7 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 **13-5Inductancias en serie y en paralelo**
 
-17. ¿Cuál es la inductancia equivalente de 12, 14, 22 y 36mH conectados enserie?
+17.- ¿Cuál es la inductancia equivalente de 12, 14, 22 y 36mH conectados enserie?
 
 <div align="center">
   
@@ -208,7 +208,7 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 </div>
 
-19. Repita el problema 17 si las inductancias están conectadas en paralelo.
+19.- Repita el problema 17 si las inductancias están conectadas en paralelo.
 
 <div align="center">
   
@@ -216,7 +216,7 @@ C. ¿Cuál es la corriente en t = 10 s?
 
 </div>
 
-21. Determine LT para los circuitos de la ﬁgura 13-37.
+21.- Determine LT para los circuitos de la ﬁgura 13-37.
 
 <div align="center">
   
@@ -276,7 +276,7 @@ El circuito se reduce a
 
 </div>
 
-23. Una inductancia de 30 H está conectada en serie con una inductancia de 60 H, y una inductancia de 10 H está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
+23.- Una inductancia de 30 H está conectada en serie con una inductancia de 60 H, y una inductancia de 10 H está conectada en paralelo con la combinación en serie. ¿Qué valor tiene LT?
 
 <div align="center">
 
@@ -418,7 +418,7 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 
 </div>
 
-11. Para el circuito de la ﬁ gura 14-1 (b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente ﬁ nal del estado estable es4 A, y el transitorio dura 0.5 s . Determine E, R y L.
+11.- Para el circuito de la ﬁ gura 14-1 (b), el voltaje en la inductancia en el instante en que el interruptor se cierra es 80 V, la corriente ﬁ nal del estado estable es4 A, y el transitorio dura 0.5 s . Determine E, R y L.
 
 <div align="center">
  
@@ -434,7 +434,7 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
   
   </div>
 
-13. Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
+13.- Para la ﬁgura 14-1(b), si vL = 40e^-2000t V y la corriente de estado estable es10 mA, ¿Cuáles son los valores de E, R y L?
 
 <div align="center">
   
@@ -448,7 +448,7 @@ b. Para cada circuito de la figura 14-37, determine iS y VL  inmediatamente desp
 
 **14-4 Transitorios desenergizantes**
 
-15. Para la ﬁgura 14-43, R1 = 20, R2 = 230  y L 0.5 H y la corriente delinductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0s, el interruptor se abre.
+15.- Para la ﬁgura 14-43, R1 = 20, R2 = 230  y L 0.5 H y la corriente delinductor ha alcanzado un valor estable de 5 A con el interruptor cerrado. En t = 0s, el interruptor se abre.
 
 a. ¿Cuál es la constante de tiempo en la fase de disminución?.
 
@@ -482,7 +482,7 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
   
  </div>
  
-17. Dado vL = -2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms
+17.- Dado vL = -2700 Ve^100t. Use la curva universal de la constante de tiempo para determinar vL en t = 20 ms
 
 <div align="center">
 
@@ -490,7 +490,7 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
 
  </div>  
   
-19. Para la ﬁgura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la ﬁgura 14-44. Determine R1 y R2
+19.- Para la ﬁgura 14-43, L = 20 H. La corriente durante la fase de crecimiento y disminución se muestra en la ﬁgura 14-44. Determine R1 y R2
 
 <div align="center">
   
@@ -506,7 +506,7 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
 
 **14-5Circuitos más complejos**
 
-21. Para la bobina de la ﬁgura 14-45 Rt = 1.7Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
+21.- Para la bobina de la ﬁgura 14-45 Rt = 1.7Ω y L = 150 mH. Determine la corriente de la bobina en t = 18.4 ms.
 
 <div align="center">
   
@@ -516,7 +516,7 @@ d. Graﬁque iL y vL. Marque el eje en t y en segundos.
  
 </div>
 
-23. Para la ﬁgura 14-46,el circuito ha alcanzado el estado estable con el interrup-tor cerrado. Ahora se abre el interruptor.
+23.- Para la ﬁgura 14-46,el circuito ha alcanzado el estado estable con el interrup-tor cerrado. Ahora se abre el interruptor.
 
 <div align="center">
 
@@ -548,7 +548,8 @@ c. Encuentre el voltaje en el inductor y la corriente a través de él en t = 17
 
 </div>  
 
-25. a. Repita el problema 22,partes (a) y (b) para el circuito de la ﬁgura14-47.
+25.- a. Repita el problema 22,partes (a) y (b) para el circuito de la ﬁgura14-47.
+
 b. ¿Cuánto es iL y vL en t = 25 ms?
 
 <div align="center">
@@ -565,7 +566,7 @@ b. ¿Cuánto es iL y vL en t = 25 ms?
   
 </div>  
 
-27. Un circuito desconocido que contiene fuentes cd y resistores tiene un voltajea circuito abierto de 45 volts. Cuando sus terminales de salida se ponen encorto,la corriente de cortocircuito es 0.15 A. Un interruptor,resistor e induc-tancia están conectados (ﬁgura 14-48). Determine la corriente y el voltaje delinductor, 2.5 ms después que el interruptor se ha cerrado
+27.- Un circuito desconocido que contiene fuentes cd y resistores tiene un voltajea circuito abierto de 45 volts. Cuando sus terminales de salida se ponen encorto,la corriente de cortocircuito es 0.15 A. Un interruptor,resistor e induc-tancia están conectados (ﬁgura 14-48). Determine la corriente y el voltaje delinductor, 2.5 ms después que el interruptor se ha cerrado
 
 <div align="center">
   
@@ -587,7 +588,7 @@ https://youtu.be/UAbV6vbANFg
 
 -	Para calcular el voltaje y corriente de un inductor cuando el circuito adquiere el estado estable. Primero se ubica los inductores como un cortocircuito, se calcula el voltaje, corriente y resistencia como un circuito cualquiera y a partir de ahí se aplica cualquier método para la resolución de circuitos y con ello se obtiene voltaje y corriente de un inductor.
 
--	En circuitos RL el tanto el voltaje como la corriente funcionan dependiendo del caso, es decir, cuando hay crecimiento la corriente empieza desde 0 hasta llegar un punto en el que se estabiliza, sin embargo, el voltaje funciona al contrario es decir empieza con el voltaje máximo y va descendiendo hasta 0. Ocurre lo contrario en la fase de decrecimiento es decir la corriente empieza en el valor estable hasta 0 y el voltaje empieza en 0 hasta llegar al voltaje máximo
+-	En circuitos RL el tanto el voltaje como la corriente funcionan dependiendo del caso, es decir, cuando hay crecimiento la corriente empieza desde 0 hasta llegar un punto en el que se estabiliza, sin embargo, el voltaje funciona al contrario es decir empieza con el voltaje máximo y va descendiendo hasta 0. Ocurre lo contrario en la fase de decrecimiento es decir la corriente empieza en el valor estable hasta 0 y el voltaje empieza en 0 hasta llegar al voltaje máximo.
 
 # 6. BIBLIOGRAFÍAS
 
